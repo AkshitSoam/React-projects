@@ -1,0 +1,22 @@
+.selling{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top:6rem;
+}
+
+.sell-heading{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.sell-para{
+    text-align: center;
+    color: rgb(39, 38, 38);
+    position: relative;
+    top:2rem;
+}
+
+.sell-slider{
+  padding: 5rem;
+}

@@ -1,0 +1,29 @@
+.cards{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:2rem;
+
+}
+
+.cards-about{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-category{
+    color:gray;
+}
+
+.cards img{
+    border-radius: 2rem;
+}
+
+.cards img:hover{
+    scale:1.2;
+    transition: all ;
+    transition-duration: .9s;
+    
+}

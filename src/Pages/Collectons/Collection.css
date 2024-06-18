@@ -1,0 +1,45 @@
+.collection{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top:3rem;
+}
+
+.collection-img{
+    background:  url(https://github.com/mdalmamunit427/react-ecommerce-minimal-website/blob/main/public/images/collection-bg.png?raw=true);
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 640px;
+}
+
+.img-zara{
+    position: absolute;
+    left: 60%;
+    top:7rem;
+}
+
+.collection-para{
+    position: absolute;
+    color: #fff;
+    font-size: larger;
+    left: 60%;
+    top:16rem;
+}
+
+.button-1{
+    background-color: #fff;
+    color:#1e1e1e;
+    font-size: larger;
+    position:absolute;
+    left:60%;
+    top:26rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.button-1:hover{
+    color:orangered;
+}
+
